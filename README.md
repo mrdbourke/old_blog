@@ -1,3 +1,3 @@
-# Your blog
+# Deprecated
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+2022-06-15: This old repo is deprecated. I'm creating a new blog.
